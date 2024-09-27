@@ -1,10 +1,12 @@
+# You have to change the bucket_name into 'alias:/bucket_name' in order to download the WAV files from the OSN bucket.
 import csv
 import os
 
 # path to the randomized csv file
 csv_file = './data/files_for_buzzes.csv'
+# Here to change 
 # alias + bucket name in format 'alias:/bucket_name'
-bucket_name = 'liuyisrclone:/bio230143-bucket01'
+bucket_name = ''
 # path to the folder that you want to save
 save_folder = './wav_files'
 
