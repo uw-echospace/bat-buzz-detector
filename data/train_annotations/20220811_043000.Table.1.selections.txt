@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz), Notes, Notes, Notes
+1	Waveform 1	1	386.179382430	386.290745021	17154.6	24247.4, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+1	Spectrogram 1	1	386.179382430	386.290745021	17154.6	24247.4, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+2	Waveform 1	1	386.836559205	386.950671490	16989.7	25896.9, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+2	Spectrogram 1	1	386.836559205	386.950671490	16989.7	25896.9, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+3	Waveform 1	1	395.652077297	395.819808608	15670.1	23587.6, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+3	Spectrogram 1	1	395.652077297	395.819808608	15670.1	23587.6, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+4	Waveform 1	1	408.230552283	408.374911198	16989.7	26556.7, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+4	Spectrogram 1	1	408.230552283	408.374911198	16989.7	26556.7, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+5	Waveform 1	1	412.129620391	412.298726548	15175.3	24907.2, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+5	Spectrogram 1	1	412.129620391	412.298726548	15175.3	24907.2, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+6	Waveform 1	1	426.034821711	426.217676337	16824.7	24577.3, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+6	Spectrogram 1	1	426.034821711	426.217676337	16824.7	24577.3, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+7	Waveform 1	1	429.114479073	429.268461916	16824.7	25237.1, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+7	Spectrogram 1	1	429.114479073	429.268461916	16824.7	25237.1, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+8	Waveform 1	1	703.659037165	703.773149450	16824.7	28206.2, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+8	Spectrogram 1	1	703.659037165	703.773149450	16824.7	28206.2, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+9	Waveform 1	1	743.349494625	743.434735127	18309.3	26391.8, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+9	Spectrogram 1	1	743.349494625	743.434735127	18309.3	26391.8, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+10	Waveform 1	1	906.906790136	907.031901196	16824.7	24247.4, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
+10	Spectrogram 1	1	906.906790136	907.031901196	16824.7	24247.4, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt, 20220811_043000.Table.1.selections.txt
